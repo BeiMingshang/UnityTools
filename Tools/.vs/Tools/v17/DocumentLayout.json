@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\assets\\scripts\\pool\\gameobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pool\\gameobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|f:\\\u4E2A\u4EBAunity\u9879\u76EE\\tools\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\assets\\scripts\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\assets\\scripts\\singleton\\persistentsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleton\\persistentsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Singleton\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\assets\\scripts\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C23F6-2C0B-5DCA-3A72-3EE8D5B3D184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameObjectPool.cs",
+              "DocumentMoniker": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Pool\\GameObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pool\\GameObjectPool.cs",
+              "ToolTip": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Pool\\GameObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pool\\GameObjectPool.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:52:13.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.cs",
+              "DocumentMoniker": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Singleton\\test.cs",
+              "ToolTip": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Singleton\\test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:13:25.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test.cs",
+              "ToolTip": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAUwKwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:42:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Singleton\\Singleton.cs",
+              "ToolTip": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Singleton\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:31:31.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PriorityQueue.cs",
+              "ToolTip": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\PriorityQueue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:34:43.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersistentSingleton.cs",
+              "DocumentMoniker": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\PersistentSingleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Singleton\\PersistentSingleton.cs",
+              "ToolTip": "F:\\\u4E2A\u4EBAunity\u9879\u76EE\\Tools\\Assets\\Scripts\\Singleton\\PersistentSingleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Singleton\\PersistentSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:01:52.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
